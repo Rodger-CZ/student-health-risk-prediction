@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Kaggle / competition datasets
+train.csv
+test.csv
+sample_submission.csv
+submission*.csv
+*.zip
+
+# CatBoost artifacts
+catboost_info/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
